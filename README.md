@@ -114,7 +114,9 @@ Decrypt when needed to restore original content
 
 
 
+
 ⚡ Setup Instructions
+
 
 . Clone the repository:
 
