@@ -112,28 +112,7 @@ Encrypt the file using the key
 
 Decrypt when needed to restore original content
 
-📂 Project Structure
 
-Python-Internship-Codveda/
-│
-├─ simple_calculator.py
-├─ guess_game.py
-├─ word_counter.py
-│   └─ test.txt
-├─ todo.py
-│   └─ task.json
-├─ webScraper.py
-│   └─ data.csv
-├─ cryptoCurrency-price.py
-├─ generateAkey.py
-├─ encryptfile.py
-├─ decryptefile.py
-│   └─ toBeSecret.txt
-│   └─ myTopSecretInfo.txt
-│   └─ decrypted.txt
-│   └─ myTopSecretKey.key
-├─ requirements.txt
-└─ README.md
 
 ⚡ Setup Instructions
 
